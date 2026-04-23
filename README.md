@@ -1,4 +1,4 @@
-# xAI Imagine Playground Notes
+# xAI Imagine (image API playground) Sınırsız Sansürsüz Kullanım Açığı
 
 Selamlar,
 
@@ -10,7 +10,7 @@ Bu repo, sistemin genel davranışı ve kullanıcı deneyimi üzerine kişisel g
 
 ## 🔍 Genel Gözlemler
 
-Dikkatimi çeken noktalardan biri, sistemin kullanım takibi ve limit yönetimi konusunda oturum bazlı bir yapı kullanıyor olabileceği. Bu durum, farklı tarayıcılar veya oturumlarda değişken davranışlar gözlemlenmesine neden olabiliyor.
+Dikkatimi çeken noktalardan biri, sistemin kullanım takibi ve limit yönetimi konusunda oturum bazlı bir yapı kullanıyor olabileceği. Bu durum, farklı tarayıcılar veya oturumlarda değişken davranışlar gözlemlenmesine neden olabiliyor.Yani sitenin çerezlerini temizleyince size verilen 3 hakta yenileniyor ve sınırsız kullanabiliyorsunuz. Ayrıca ürettiğiniz görseller denetime takılmadan sansürsüz şekilde geliyor.
 
 ---
 
