@@ -1,22 +1,17 @@
 # xai-imagine-notes
 Personal notes and experiments on xAI Imagine text-to-image playground.
 
+##Selamlar,
 
-# xAI Imagine Playground Notes
+##xAI’nin “Imagine” adlı görsel üretim arayüzünü (image API playground) denedim. Burada text-to-image modeli üzerinden prompt girerek görsel üretimi yapılabiliyor.
 
-This repository contains my personal notes and observations about xAI Imagine (text-to-image playground).
+Dikkatimi çeken şeylerden biri, sistemin bazı kontrollerinin tamamen server-side yerine kısmen oturum bazlı çalışıyor olması. Bu da kullanım limitlerinin nasıl yönetildiğine dair farklı davranışlar gözlemlenmesine neden olabiliyor. Yani sitenin çerezlerini temizleyince size verilen 3 hakta yenileniyor ve sınırsız kullanabiliyorsunuz. Ayrıca ürettiğiniz görseller denetime takılmadan sansürsüz şekilde geliyor
 
-## Overview
-xAI Imagine is a web-based playground for testing text-to-image generation models provided by xAI. It allows users to experiment with prompts and generate images in real time.
+##Öne çıkan noktalar:
 
-## Features Observed
-- Text-to-image generation
-- Fast prompt testing
-- Web-based API playground interface
-- High quality image outputs
+    Metin tabanlı görsel üretim (text-to-image)
+    Geliştiriciler için API test ortamı gibi çalışıyor
+    Prompt denemeleri için oldukça hızlı ve pratik
+    Üretilen görseller genelde yüksek kalite
 
-## Link
-https://console.x.ai/playground/imagine?campaign=imagine-landing
-
-## Notes
-This repo is for educational and observational purposes only.
+##[Link](https://console.x.ai/playground/imagine?campaign=imagine-landing)
