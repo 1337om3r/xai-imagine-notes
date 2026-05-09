@@ -1,3 +1,4 @@
+![Açıklama](ximages.png)
 # xAI Imagine (image API playground) Sınırsız Sansürsüz Kullanım Açığı
 
 Selamlar,
