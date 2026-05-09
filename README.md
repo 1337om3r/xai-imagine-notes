@@ -1,3 +1,5 @@
+Bu düzenleme açığı 09/05/2026 tarihinde fixlenmiştir.
+
 ![Açıklama](ximage.png)
 # xAI Imagine (image API playground) Sınırsız Sansürsüz Kullanım Açığı
 
